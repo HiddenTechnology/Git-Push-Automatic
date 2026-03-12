@@ -9,7 +9,7 @@ Usuário GitHub:
 
 E-mail GitHub:
 
-Mensagem do commit: (qualquer descrição da sua alteração)
+Mensagem do commit: (qualquer descrição da sua alteração ou aperte enter para seguir o padrão)
 
 ----------------------------------------
 Define a configuração do servidor:
