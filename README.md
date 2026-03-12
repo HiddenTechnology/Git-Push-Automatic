@@ -9,7 +9,7 @@ git clone https://github.com/HiddenTechnology/Git-Push-Automatico
 
 cd Git-Push-Automatico
 
-mv Autopush.sh /usr/local/bin/Autopush.sh
+mv Autopush.sh /usr/local/bin/Autopush
 
 chmod +x /usr/local/bin/Autopush.sh
 
@@ -26,7 +26,7 @@ git clone https://github.com/HiddenTechnology/Git-Push-Automatico
 
 cd Git-Push-Automatico
 
-mv Autopush.sh $PREFIX/bin/Autopush.sh
+mv Autopush.sh $PREFIX/bin/Autopush
 
 chmod +x $PREFIX/bin/Autopush.sh
 
