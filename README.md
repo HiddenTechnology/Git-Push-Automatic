@@ -22,8 +22,10 @@ Username for 'https://github.com':
 
 Password for 'https://...': ghp_************************************ (Não é senha, é token)
 
-Caso você erre a senha, é só rodar o comando rm ~/.git-credentials
-
+Caso você erre a senha, é só rodar o comando 
+```
+rm ~/.git-credentials
+```
 
 # 🛠 Instalação Kali
 ```
