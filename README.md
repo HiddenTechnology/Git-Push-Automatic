@@ -43,6 +43,9 @@ cd
 
 rm -rf Git-Push-Automatic
 ```
+```
+Autopush
+```
 
 # 📱 Instalação Termux
 ```
@@ -59,4 +62,7 @@ chmod +x $PREFIX/bin/Autopush
 cd
 
 rm -rf Git-Push-Automatic
+```
+```
+Autopush
 ```
