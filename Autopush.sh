@@ -76,7 +76,7 @@ git push -f -u origin main
 
 if [ $? -eq 0 ]; then
     echo -e "${VERDE}=== Processo Finalizado com Sucesso! ===${RESET}"
-    echo -e "${CIANO}Os históricos foram soldados. As IAs já conseguem ler este repositório.${RESET}"
+    echo -e "${CIANO}Os históricos foram soldados.${RESET}"
 else
     echo -e "${VERMELHO}Erro no Push final. Se for a primeira sincronização, verifique seu Token do GitHub.${RESET}"
 fi
