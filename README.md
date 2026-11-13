@@ -27,7 +27,7 @@ Caso você erre a senha, é só rodar o comando
 rm ~/.git-credentials
 ```
 
-# 🛠 Instalação Kali
+# 🛠 Instalação Kali/Ubuntu/Debian
 ```
 sudo apt install git -y
 
