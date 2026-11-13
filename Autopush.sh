@@ -7,7 +7,7 @@ AMARELO='\033[1;33m'
 VERMELHO='\033[0;31m'
 RESET='\033[0m'
 
-echo -e "${CIANO}=== Sincronizador GitHub para Termux (Forçar Correção) ===${RESET}"
+echo -e "${CIANO}=== Sincronizador GitHub ===${RESET}"
 
 # 1. Configurações Globais Preventivas
 git config --global credential.helper store
