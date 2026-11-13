@@ -35,7 +35,7 @@ git clone https://github.com/HiddenTechnology/Git-Push-Automatic
 
 cd Git-Push-Automatic
 
-mv Autopush.sh /usr/local/bin/Autopush
+sudo mv Autopush.sh /usr/local/bin/Autopush
 
 chmod +x /usr/local/bin/Autopush
 
